@@ -14,7 +14,7 @@ This repository contains code for the methods described in the following paper:
 IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM), Selected Best Works From
 Automated Face and Gesture Recognition 2020
 
-## News
+## News 
 
 * [2021-12-03] Added new backbones, including the ResNet family from ResNet-18 to ResNet-152
 * [2021-10-19] Released new best-performing [models](docs/MODELS.md) based on EfficientNetV2 and super fast
